@@ -58,12 +58,3 @@
 ### ⚡ Fun Cyber Fact
 
 🕶 I speak fluent "Packet" and have trust issues with open ports 😎
-
----
-
-### 🚀 GitHub Add-Ons
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=fizza-afzal&label=Profile%20views&color=0e75b6&style=flat)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fizza-afzal&layout=compact&theme=tokyonight)  
-![Fizza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fizza-afzal&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fizza-afzal&theme=tokyonight)
