@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/FIZZA2110/FIZZA2110/raw/main/baner.png" alt="Fizza Afzal Cybersecurity Banner" />
+</p>
+
 <h1 align="center">👋 Hi there, I'm Fizza Afzal</h1>
 <h3 align="center">🛡 Future SOC Analyst | Cybersecurity Explorer | CTF Enthusiast</h3>
 
@@ -11,7 +15,7 @@
 
 🚨 A vigilant defender in the cyber trenches  
 🔍 Passionate about monitoring threats & analyzing suspicious behavior  
-🕵‍♀ Always ready to hunt, *detect, and **respond*  
+🕵️‍♀ Always ready to *hunt*, **detect**, and **respond**  
 💡 Believer in proactive defense and digital resilience
 
 ---
